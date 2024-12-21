@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StudentNameTextStyle" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="StudentDetailsTextStyle" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:background">@drawable/edittext_background</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="titleTextColor">@color/app_label_color</item>
+    </style>
+</resources>

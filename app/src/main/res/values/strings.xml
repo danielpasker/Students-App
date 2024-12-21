@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Students App</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_id">Student Id</string>
+    <string name="student_phone">Phone Number</string>
+    <string name="student_address">Address</string>
+    <string name="new_student">New Student</string>
+    <string name="save">Save</string>
+    <string name="id_hint">Id</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_hint">Phone</string>
+    <string name="address_hint">Address</string>
+    <string name="student_details">Student Details</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="add_student">Add Student</string>
+    <string name="add_student_fab_description">Add new student</string>
+    <string name="cancel">Cancel</string>
+    <string name="checkbox_text">Checked</string>
+    <string name="student_image_description">Student image</string>
+    <string name="students_details_title">Students Details</string>
+    <string name="edit_student_title">Edit Student</string>
+    <string name="new_student_title">New Student</string>
+</resources>
